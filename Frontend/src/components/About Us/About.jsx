@@ -1,5 +1,5 @@
 import React from "react";
-import Poster from "../About Us/poster.jpeg";
+import Poster from "./poster.jpeg";
 
 function About() {
   return (
