@@ -8,7 +8,6 @@ Welcome to **College Insights**! This web application provides comprehensive ins
 
 Explore the live version here: [College Insights Live](https://collegeinsights.netlify.app/).
 
-![College Insights Screenshot](https://user-images.githubusercontent.com/80989101/126604193-e8ff2085-3fd0-4fd0-8c6d-b09e5d837eb6.png)
 
 ## 🚀 Features
 
