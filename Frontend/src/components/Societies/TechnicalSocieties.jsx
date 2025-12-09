@@ -5,7 +5,7 @@ import CSI from "./images/CSI.jpeg";
 import ISTE from "./images/ISTE.jpeg";
 import Nirmaan from "./images/Nirmaan.jpeg";
 import OSS from "./images/OSS.jpeg";
-import Phoenix from "./images/Phonix.jpeg";
+import Phoenix from "./images/phonix.jpeg";
 import SAE from "./images/sae.jpeg";
 import Samveg from "./images/SAMVEG.jpeg";
 import SI from "./images/SI.jpeg";
